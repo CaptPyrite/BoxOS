@@ -1,5 +1,5 @@
 # BoxOS V1.1
-![BoxOS-picture](https://user-images.githubusercontent.com/79488582/146655277-b5d0befb-6924-44ac-aa2b-bd8012408d95.PNG)
+![146655277-b5d0befb-6924-44ac-aa2b-bd8012408d95](https://user-images.githubusercontent.com/79488582/154825231-654f27b4-4879-49a9-9c18-898cd89d4015.png)
 
 # About
 A really minimalistic operating system made using python's GUI module Tkinter. What separates it from the other operating systems made with Tkinter is the valid desktop and also terminal. It's made for general purposes.
