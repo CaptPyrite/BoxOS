@@ -1,0 +1,4 @@
+[Version]=V1.0.1
+[Activation-Code]=0mO7-9ucm-hOKH-dB0D-qaAc
+[Activation-Server]=https://boxos-activations.github.io/activation/Bebdbdkxneuwbwjjzbdbd/
+[Update-Server]=https://raw.githubusercontent.com/FahimFerdous1/BoxOS/main/OS.py
