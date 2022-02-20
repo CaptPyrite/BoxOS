@@ -1,4 +1,4 @@
-# BoxOS V1.0.0
+# BoxOS V1.1
 ![BoxOS-picture](https://user-images.githubusercontent.com/79488582/146655277-b5d0befb-6924-44ac-aa2b-bd8012408d95.PNG)
 
 # About
@@ -18,6 +18,11 @@ random
 subprocess
 html
 requests
+sys
+cpuinfo
+math
+multiprocessing
+webbrowser
 ```
 *Note: BoxOS must be ran on Python3
 
